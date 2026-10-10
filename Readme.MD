@@ -4,7 +4,7 @@ A chatbot that answers frequently asked questions. It was built for Task 2 of th
 
 ## Demo
 
-[Paste your demo video here]
+["C:\Users\LENOVO\Videos\Captures\chatbot.py - faq chatbot - Visual Studio Code 2026-10-10 17-55-22.mp4"]
 
 ## How it works
 
@@ -43,4 +43,3 @@ To test in the terminal instead, run `python chatbot.py`.
 
 ## Screenshots
 
-[<video controls src="chatbot.py - faq chatbot - Visual Studio Code 2026-10-10 17-55-22.mp4" title="Title"></video>]
